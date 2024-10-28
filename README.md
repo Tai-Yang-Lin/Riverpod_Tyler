@@ -1,5 +1,12 @@
 # riverpod_tyler
 
+#可繼續做的內容
+1.排序功能補齊
+2.點擊進去deatail後可以在顯示更多詳細資訊(從json裡面取)，甚至式播放影片
+
+#小bug未修正
+1.圖片讀取有時較慢，可能可以考慮作暫存檔之類的
+
 # 開發環境
 Flutter version: 3.19.6
 IDE版本： Android Studio Jellyfish | 2023.3.1
@@ -80,13 +87,16 @@ acc: 輔色調(accent)
 ter: 跳色(tertiary)
 sta: 狀態色調(status)
 txt: 文字顏色(basic text)
+
 -
 dk: 深色 (Dark)
 lt: 浅色 (Light)
+
 -
 blk: 黑色 (Black)
 gry: 灰色 (Grey)
 wht: 白色 (White)
+
 -
 red: 红色 (Red)
 org: 橙色 (Orange)
@@ -94,6 +104,7 @@ ylw: 黄色 (Yellow)
 grn: 绿色 (Green)
 blu: 蓝色 (Blue)
 pur: 紫色 (Purple)
+
 -
 pnk: 粉色 (Pink)
 brn: 棕色 (Brown)
